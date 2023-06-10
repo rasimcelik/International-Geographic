@@ -1,0 +1,32 @@
+body {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #000000;
+  user-select: none;
+}
+
+section {
+  height: 100%;
+  width: 480px;
+  background-color: #000000;
+}
+header {
+  padding: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+header img {
+  width: 50%;
+  margin-left: -2rem;
+  rotate: 15deg;
+}
+h4 {
+  color: white;
+  font-weight: 500;
+  font-size: 20px;
+  font-family: "Poppins", sans-serif;
+  margin-left: 10px;
+}
