@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import json
 
 # Fetch HTML content
-url = "https://en.wikipedia.org/wiki/Africa"
+url = "https://en.wikipedia.org/wiki/South_America"
 response = requests.get(url)
 html_content = response.text
 
@@ -30,5 +30,5 @@ for heading in headings:
     data[title] = content
 
 # Save as JSON file
-with open("africa_sections.json", "w") as file:
+with open("south_america_sections.json", "w") as file:
     json.dump(data, file, indent=4)
