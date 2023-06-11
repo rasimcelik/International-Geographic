@@ -48,14 +48,14 @@ document.getElementById("europe").addEventListener(
 document.getElementById("na").addEventListener(
   "click",
   function () {
-    location.href = "/pages/na.html";
+    location.href = "/pages/northamerica.html";
   },
   false
 );
 document.getElementById("sa").addEventListener(
   "click",
   function () {
-    location.href = "/pages/sa.html";
+    location.href = "/pages/southamerica.html";
   },
   false
 );

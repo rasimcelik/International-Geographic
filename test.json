@@ -1,1014 +1,1020 @@
 {
-    "Asia": {
-        "India": {
-            "population": 1380004385,
-            "wiki_link": "https://en.wikipedia.org/wiki/India"
-        },
-        "North Korea": {
-            "population": 25778815,
-            "wiki_link": "https://en.wikipedia.org/wiki/North Korea"
-        },
-        "Kyrgyzstan": {
-            "population": 6591600,
-            "wiki_link": "https://en.wikipedia.org/wiki/Kyrgyzstan"
-        },
-        "Turkmenistan": {
-            "population": 6031187,
-            "wiki_link": "https://en.wikipedia.org/wiki/Turkmenistan"
-        },
-        "Malaysia": {
-            "population": 32365998,
-            "wiki_link": "https://en.wikipedia.org/wiki/Malaysia"
-        },
-        "South Korea": {
-            "population": 51780579,
-            "wiki_link": "https://en.wikipedia.org/wiki/South Korea"
-        },
-        "Sri Lanka": {
-            "population": 21919000,
-            "wiki_link": "https://en.wikipedia.org/wiki/Sri Lanka"
-        },
-        "Palestine": {
-            "population": 4803269,
-            "wiki_link": "https://en.wikipedia.org/wiki/Palestine"
-        },
-        "Tajikistan": {
-            "population": 9537642,
-            "wiki_link": "https://en.wikipedia.org/wiki/Tajikistan"
-        },
-        "Bangladesh": {
-            "population": 164689383,
-            "wiki_link": "https://en.wikipedia.org/wiki/Bangladesh"
-        },
-        "Kuwait": {
-            "population": 4270563,
-            "wiki_link": "https://en.wikipedia.org/wiki/Kuwait"
-        },
-        "Qatar": {
-            "population": 2881060,
-            "wiki_link": "https://en.wikipedia.org/wiki/Qatar"
-        },
-        "Hong Kong": {
-            "population": 7500700,
-            "wiki_link": "https://en.wikipedia.org/wiki/Hong Kong"
-        },
-        "China": {
-            "population": 1402112000,
-            "wiki_link": "https://en.wikipedia.org/wiki/China"
-        },
-        "Georgia": {
-            "population": 3714000,
-            "wiki_link": "https://en.wikipedia.org/wiki/Georgia"
-        },
-        "Thailand": {
-            "population": 69799978,
-            "wiki_link": "https://en.wikipedia.org/wiki/Thailand"
-        },
-        "Armenia": {
-            "population": 2963234,
-            "wiki_link": "https://en.wikipedia.org/wiki/Armenia"
-        },
-        "Lebanon": {
-            "population": 6825442,
-            "wiki_link": "https://en.wikipedia.org/wiki/Lebanon"
-        },
-        "Jordan": {
-            "population": 10203140,
-            "wiki_link": "https://en.wikipedia.org/wiki/Jordan"
-        },
-        "Pakistan": {
-            "population": 220892331,
-            "wiki_link": "https://en.wikipedia.org/wiki/Pakistan"
-        },
-        "Vietnam": {
-            "population": 97338583,
-            "wiki_link": "https://en.wikipedia.org/wiki/Vietnam"
-        },
-        "Nepal": {
-            "population": 29136808,
-            "wiki_link": "https://en.wikipedia.org/wiki/Nepal"
-        },
-        "Laos": {
-            "population": 7275556,
-            "wiki_link": "https://en.wikipedia.org/wiki/Laos"
-        },
-        "Israel": {
-            "population": 9216900,
-            "wiki_link": "https://en.wikipedia.org/wiki/Israel"
-        },
-        "Indonesia": {
-            "population": 273523621,
-            "wiki_link": "https://en.wikipedia.org/wiki/Indonesia"
-        },
-        "Japan": {
-            "population": 125836021,
-            "wiki_link": "https://en.wikipedia.org/wiki/Japan"
-        },
-        "Myanmar": {
-            "population": 54409794,
-            "wiki_link": "https://en.wikipedia.org/wiki/Myanmar"
-        },
-        "Mongolia": {
-            "population": 3278292,
-            "wiki_link": "https://en.wikipedia.org/wiki/Mongolia"
-        },
-        "Yemen": {
-            "population": 29825968,
-            "wiki_link": "https://en.wikipedia.org/wiki/Yemen"
-        },
-        "Maldives": {
-            "population": 540542,
-            "wiki_link": "https://en.wikipedia.org/wiki/Maldives"
-        },
-        "Timor-Leste": {
-            "population": 1318442,
-            "wiki_link": "https://en.wikipedia.org/wiki/Timor-Leste"
-        },
-        "Iran": {
-            "population": 83992953,
-            "wiki_link": "https://en.wikipedia.org/wiki/Iran"
-        },
-        "Bahrain": {
-            "population": 1701583,
-            "wiki_link": "https://en.wikipedia.org/wiki/Bahrain"
-        },
-        "Oman": {
-            "population": 5106622,
-            "wiki_link": "https://en.wikipedia.org/wiki/Oman"
-        },
-        "Brunei": {
-            "population": 437483,
-            "wiki_link": "https://en.wikipedia.org/wiki/Brunei"
-        },
-        "Philippines": {
-            "population": 109581085,
-            "wiki_link": "https://en.wikipedia.org/wiki/Philippines"
-        },
-        "Afghanistan": {
-            "population": 40218234,
-            "wiki_link": "https://en.wikipedia.org/wiki/Afghanistan"
-        },
-        "Taiwan": {
-            "population": 23503349,
-            "wiki_link": "https://en.wikipedia.org/wiki/Taiwan"
-        },
-        "Kazakhstan": {
-            "population": 18754440,
-            "wiki_link": "https://en.wikipedia.org/wiki/Kazakhstan"
-        },
-        "Singapore": {
-            "population": 5685807,
-            "wiki_link": "https://en.wikipedia.org/wiki/Singapore"
-        },
-        "Syria": {
-            "population": 17500657,
-            "wiki_link": "https://en.wikipedia.org/wiki/Syria"
-        },
-        "Azerbaijan": {
-            "population": 10110116,
-            "wiki_link": "https://en.wikipedia.org/wiki/Azerbaijan"
-        },
-        "Bhutan": {
-            "population": 771612,
-            "wiki_link": "https://en.wikipedia.org/wiki/Bhutan"
-        },
-        "Uzbekistan": {
-            "population": 34232050,
-            "wiki_link": "https://en.wikipedia.org/wiki/Uzbekistan"
-        },
-        "Macau": {
-            "population": 649342,
-            "wiki_link": "https://en.wikipedia.org/wiki/Macau"
-        },
-        "Cambodia": {
-            "population": 16718971,
-            "wiki_link": "https://en.wikipedia.org/wiki/Cambodia"
-        },
-        "Iraq": {
-            "population": 40222503,
-            "wiki_link": "https://en.wikipedia.org/wiki/Iraq"
-        },
-        "Turkey": {
-            "population": 84339067,
-            "wiki_link": "https://en.wikipedia.org/wiki/Turkey"
-        },
-        "Saudi Arabia": {
-            "population": 34813867,
-            "wiki_link": "https://en.wikipedia.org/wiki/Saudi Arabia"
-        },
-        "United Arab Emirates": {
-            "population": 9890400,
-            "wiki_link": "https://en.wikipedia.org/wiki/United Arab Emirates"
-        }
+  "Asia": {
+    "India": {
+      "population": 1380004385,
+      "wiki_link": "https://en.wikipedia.org/wiki/India"
     },
-    "Europe": {
-        "Norway": {
-            "population": 5379475,
-            "wiki_link": "https://en.wikipedia.org/wiki/Norway"
-        },
-        "Denmark": {
-            "population": 5831404,
-            "wiki_link": "https://en.wikipedia.org/wiki/Denmark"
-        },
-        "Portugal": {
-            "population": 10305564,
-            "wiki_link": "https://en.wikipedia.org/wiki/Portugal"
-        },
-        "Andorra": {
-            "population": 77265,
-            "wiki_link": "https://en.wikipedia.org/wiki/Andorra"
-        },
-        "Moldova": {
-            "population": 2617820,
-            "wiki_link": "https://en.wikipedia.org/wiki/Moldova"
-        },
-        "Ireland": {
-            "population": 4994724,
-            "wiki_link": "https://en.wikipedia.org/wiki/Ireland"
-        },
-        "Italy": {
-            "population": 59554023,
-            "wiki_link": "https://en.wikipedia.org/wiki/Italy"
-        },
-        "Serbia": {
-            "population": 6908224,
-            "wiki_link": "https://en.wikipedia.org/wiki/Serbia"
-        },
-        "Estonia": {
-            "population": 1331057,
-            "wiki_link": "https://en.wikipedia.org/wiki/Estonia"
-        },
-        "Monaco": {
-            "population": 39244,
-            "wiki_link": "https://en.wikipedia.org/wiki/Monaco"
-        },
-        "Russia": {
-            "population": 144104080,
-            "wiki_link": "https://en.wikipedia.org/wiki/Russia"
-        },
-        "Poland": {
-            "population": 37950802,
-            "wiki_link": "https://en.wikipedia.org/wiki/Poland"
-        },
-        "Svalbard and Jan Mayen": {
-            "population": 2562,
-            "wiki_link": "https://en.wikipedia.org/wiki/Svalbard and Jan Mayen"
-        },
-        "Slovakia": {
-            "population": 5458827,
-            "wiki_link": "https://en.wikipedia.org/wiki/Slovakia"
-        },
-        "Croatia": {
-            "population": 4047200,
-            "wiki_link": "https://en.wikipedia.org/wiki/Croatia"
-        },
-        "Luxembourg": {
-            "population": 632275,
-            "wiki_link": "https://en.wikipedia.org/wiki/Luxembourg"
-        },
-        "Latvia": {
-            "population": 1901548,
-            "wiki_link": "https://en.wikipedia.org/wiki/Latvia"
-        },
-        "Gibraltar": {
-            "population": 33691,
-            "wiki_link": "https://en.wikipedia.org/wiki/Gibraltar"
-        },
-        "Bulgaria": {
-            "population": 6927288,
-            "wiki_link": "https://en.wikipedia.org/wiki/Bulgaria"
-        },
-        "Guernsey": {
-            "population": 62999,
-            "wiki_link": "https://en.wikipedia.org/wiki/Guernsey"
-        },
-        "Montenegro": {
-            "population": 621718,
-            "wiki_link": "https://en.wikipedia.org/wiki/Montenegro"
-        },
-        "Sweden": {
-            "population": 10353442,
-            "wiki_link": "https://en.wikipedia.org/wiki/Sweden"
-        },
-        "Kosovo": {
-            "population": 1775378,
-            "wiki_link": "https://en.wikipedia.org/wiki/Kosovo"
-        },
-        "Malta": {
-            "population": 525285,
-            "wiki_link": "https://en.wikipedia.org/wiki/Malta"
-        },
-        "Bosnia and Herzegovina": {
-            "population": 3280815,
-            "wiki_link": "https://en.wikipedia.org/wiki/Bosnia and Herzegovina"
-        },
-        "Greece": {
-            "population": 10715549,
-            "wiki_link": "https://en.wikipedia.org/wiki/Greece"
-        },
-        "Jersey": {
-            "population": 100800,
-            "wiki_link": "https://en.wikipedia.org/wiki/Jersey"
-        },
-        "San Marino": {
-            "population": 33938,
-            "wiki_link": "https://en.wikipedia.org/wiki/San Marino"
-        },
-        "Vatican City": {
-            "population": 451,
-            "wiki_link": "https://en.wikipedia.org/wiki/Vatican City"
-        },
-        "Faroe Islands": {
-            "population": 48865,
-            "wiki_link": "https://en.wikipedia.org/wiki/Faroe Islands"
-        },
-        "Belarus": {
-            "population": 9398861,
-            "wiki_link": "https://en.wikipedia.org/wiki/Belarus"
-        },
-        "France": {
-            "population": 67391582,
-            "wiki_link": "https://en.wikipedia.org/wiki/France"
-        },
-        "Liechtenstein": {
-            "population": 38137,
-            "wiki_link": "https://en.wikipedia.org/wiki/Liechtenstein"
-        },
-        "Germany": {
-            "population": 83240525,
-            "wiki_link": "https://en.wikipedia.org/wiki/Germany"
-        },
-        "Romania": {
-            "population": 19286123,
-            "wiki_link": "https://en.wikipedia.org/wiki/Romania"
-        },
-        "Belgium": {
-            "population": 11555997,
-            "wiki_link": "https://en.wikipedia.org/wiki/Belgium"
-        },
-        "Albania": {
-            "population": 2837743,
-            "wiki_link": "https://en.wikipedia.org/wiki/Albania"
-        },
-        "Slovenia": {
-            "population": 2100126,
-            "wiki_link": "https://en.wikipedia.org/wiki/Slovenia"
-        },
-        "Lithuania": {
-            "population": 2794700,
-            "wiki_link": "https://en.wikipedia.org/wiki/Lithuania"
-        },
-        "Iceland": {
-            "population": 366425,
-            "wiki_link": "https://en.wikipedia.org/wiki/Iceland"
-        },
-        "Finland": {
-            "population": 5530719,
-            "wiki_link": "https://en.wikipedia.org/wiki/Finland"
-        },
-        "Hungary": {
-            "population": 9749763,
-            "wiki_link": "https://en.wikipedia.org/wiki/Hungary"
-        },
-        "\u00c5land Islands": {
-            "population": 29458,
-            "wiki_link": "https://en.wikipedia.org/wiki/\u00c5land Islands"
-        },
-        "Austria": {
-            "population": 8917205,
-            "wiki_link": "https://en.wikipedia.org/wiki/Austria"
-        },
-        "Cyprus": {
-            "population": 1207361,
-            "wiki_link": "https://en.wikipedia.org/wiki/Cyprus"
-        },
-        "Isle of Man": {
-            "population": 85032,
-            "wiki_link": "https://en.wikipedia.org/wiki/Isle of Man"
-        },
-        "Czechia": {
-            "population": 10698896,
-            "wiki_link": "https://en.wikipedia.org/wiki/Czechia"
-        },
-        "Netherlands": {
-            "population": 16655799,
-            "wiki_link": "https://en.wikipedia.org/wiki/Netherlands"
-        },
-        "Ukraine": {
-            "population": 44134693,
-            "wiki_link": "https://en.wikipedia.org/wiki/Ukraine"
-        },
-        "North Macedonia": {
-            "population": 2077132,
-            "wiki_link": "https://en.wikipedia.org/wiki/North Macedonia"
-        },
-        "Spain": {
-            "population": 47351567,
-            "wiki_link": "https://en.wikipedia.org/wiki/Spain"
-        },
-        "Switzerland": {
-            "population": 8654622,
-            "wiki_link": "https://en.wikipedia.org/wiki/Switzerland"
-        },
-        "United Kingdom": {
-            "population": 67215293,
-            "wiki_link": "https://en.wikipedia.org/wiki/United Kingdom"
-        }
+    "North Korea": {
+      "population": 25778815,
+      "wiki_link": "https://en.wikipedia.org/wiki/North Korea"
     },
-    "Americas": {
-        "Dominican Republic": {
-            "population": 10847904,
-            "wiki_link": "https://en.wikipedia.org/wiki/Dominican Republic"
-        },
-        "Mexico": {
-            "population": 128932753,
-            "wiki_link": "https://en.wikipedia.org/wiki/Mexico"
-        },
-        "Sint Maarten": {
-            "population": 40812,
-            "wiki_link": "https://en.wikipedia.org/wiki/Sint Maarten"
-        },
-        "Brazil": {
-            "population": 212559409,
-            "wiki_link": "https://en.wikipedia.org/wiki/Brazil"
-        },
-        "Greenland": {
-            "population": 56367,
-            "wiki_link": "https://en.wikipedia.org/wiki/Greenland"
-        },
-        "Uruguay": {
-            "population": 3473727,
-            "wiki_link": "https://en.wikipedia.org/wiki/Uruguay"
-        },
-        "French Guiana": {
-            "population": 254541,
-            "wiki_link": "https://en.wikipedia.org/wiki/French Guiana"
-        },
-        "Argentina": {
-            "population": 45376763,
-            "wiki_link": "https://en.wikipedia.org/wiki/Argentina"
-        },
-        "Honduras": {
-            "population": 9904608,
-            "wiki_link": "https://en.wikipedia.org/wiki/Honduras"
-        },
-        "Caribbean Netherlands": {
-            "population": 25987,
-            "wiki_link": "https://en.wikipedia.org/wiki/Caribbean Netherlands"
-        },
-        "Peru": {
-            "population": 32971846,
-            "wiki_link": "https://en.wikipedia.org/wiki/Peru"
-        },
-        "Puerto Rico": {
-            "population": 3194034,
-            "wiki_link": "https://en.wikipedia.org/wiki/Puerto Rico"
-        },
-        "Ecuador": {
-            "population": 17643060,
-            "wiki_link": "https://en.wikipedia.org/wiki/Ecuador"
-        },
-        "Anguilla": {
-            "population": 13452,
-            "wiki_link": "https://en.wikipedia.org/wiki/Anguilla"
-        },
-        "Cura\u00e7ao": {
-            "population": 155014,
-            "wiki_link": "https://en.wikipedia.org/wiki/Cura\u00e7ao"
-        },
-        "Saint Pierre and Miquelon": {
-            "population": 6069,
-            "wiki_link": "https://en.wikipedia.org/wiki/Saint Pierre and Miquelon"
-        },
-        "Chile": {
-            "population": 19116209,
-            "wiki_link": "https://en.wikipedia.org/wiki/Chile"
-        },
-        "Venezuela": {
-            "population": 28435943,
-            "wiki_link": "https://en.wikipedia.org/wiki/Venezuela"
-        },
-        "Saint Kitts and Nevis": {
-            "population": 53192,
-            "wiki_link": "https://en.wikipedia.org/wiki/Saint Kitts and Nevis"
-        },
-        "Antigua and Barbuda": {
-            "population": 97928,
-            "wiki_link": "https://en.wikipedia.org/wiki/Antigua and Barbuda"
-        },
-        "United States": {
-            "population": 329484123,
-            "wiki_link": "https://en.wikipedia.org/wiki/United States"
-        },
-        "British Virgin Islands": {
-            "population": 30237,
-            "wiki_link": "https://en.wikipedia.org/wiki/British Virgin Islands"
-        },
-        "Colombia": {
-            "population": 50882884,
-            "wiki_link": "https://en.wikipedia.org/wiki/Colombia"
-        },
-        "Falkland Islands": {
-            "population": 2563,
-            "wiki_link": "https://en.wikipedia.org/wiki/Falkland Islands"
-        },
-        "Guadeloupe": {
-            "population": 400132,
-            "wiki_link": "https://en.wikipedia.org/wiki/Guadeloupe"
-        },
-        "United States Virgin Islands": {
-            "population": 106290,
-            "wiki_link": "https://en.wikipedia.org/wiki/United States Virgin Islands"
-        },
-        "Saint Barth\u00e9lemy": {
-            "population": 4255,
-            "wiki_link": "https://en.wikipedia.org/wiki/Saint Barth\u00e9lemy"
-        },
-        "Dominica": {
-            "population": 71991,
-            "wiki_link": "https://en.wikipedia.org/wiki/Dominica"
-        },
-        "Jamaica": {
-            "population": 2961161,
-            "wiki_link": "https://en.wikipedia.org/wiki/Jamaica"
-        },
-        "Costa Rica": {
-            "population": 5094114,
-            "wiki_link": "https://en.wikipedia.org/wiki/Costa Rica"
-        },
-        "Canada": {
-            "population": 38005238,
-            "wiki_link": "https://en.wikipedia.org/wiki/Canada"
-        },
-        "Belize": {
-            "population": 397621,
-            "wiki_link": "https://en.wikipedia.org/wiki/Belize"
-        },
-        "Montserrat": {
-            "population": 4922,
-            "wiki_link": "https://en.wikipedia.org/wiki/Montserrat"
-        },
-        "Saint Vincent and the Grenadines": {
-            "population": 110947,
-            "wiki_link": "https://en.wikipedia.org/wiki/Saint Vincent and the Grenadines"
-        },
-        "El Salvador": {
-            "population": 6486201,
-            "wiki_link": "https://en.wikipedia.org/wiki/El Salvador"
-        },
-        "Cuba": {
-            "population": 11326616,
-            "wiki_link": "https://en.wikipedia.org/wiki/Cuba"
-        },
-        "Barbados": {
-            "population": 287371,
-            "wiki_link": "https://en.wikipedia.org/wiki/Barbados"
-        },
-        "Aruba": {
-            "population": 106766,
-            "wiki_link": "https://en.wikipedia.org/wiki/Aruba"
-        },
-        "Nicaragua": {
-            "population": 6624554,
-            "wiki_link": "https://en.wikipedia.org/wiki/Nicaragua"
-        },
-        "Suriname": {
-            "population": 586634,
-            "wiki_link": "https://en.wikipedia.org/wiki/Suriname"
-        },
-        "Bahamas": {
-            "population": 393248,
-            "wiki_link": "https://en.wikipedia.org/wiki/Bahamas"
-        },
-        "Martinique": {
-            "population": 378243,
-            "wiki_link": "https://en.wikipedia.org/wiki/Martinique"
-        },
-        "Guatemala": {
-            "population": 16858333,
-            "wiki_link": "https://en.wikipedia.org/wiki/Guatemala"
-        },
-        "Paraguay": {
-            "population": 7132530,
-            "wiki_link": "https://en.wikipedia.org/wiki/Paraguay"
-        },
-        "Saint Lucia": {
-            "population": 183629,
-            "wiki_link": "https://en.wikipedia.org/wiki/Saint Lucia"
-        },
-        "Turks and Caicos Islands": {
-            "population": 38718,
-            "wiki_link": "https://en.wikipedia.org/wiki/Turks and Caicos Islands"
-        },
-        "Cayman Islands": {
-            "population": 65720,
-            "wiki_link": "https://en.wikipedia.org/wiki/Cayman Islands"
-        },
-        "Haiti": {
-            "population": 11402533,
-            "wiki_link": "https://en.wikipedia.org/wiki/Haiti"
-        },
-        "United States Minor Outlying Islands": {
-            "population": 300,
-            "wiki_link": "https://en.wikipedia.org/wiki/United States Minor Outlying Islands"
-        },
-        "Bermuda": {
-            "population": 63903,
-            "wiki_link": "https://en.wikipedia.org/wiki/Bermuda"
-        },
-        "Grenada": {
-            "population": 112519,
-            "wiki_link": "https://en.wikipedia.org/wiki/Grenada"
-        },
-        "Guyana": {
-            "population": 786559,
-            "wiki_link": "https://en.wikipedia.org/wiki/Guyana"
-        },
-        "Saint Martin": {
-            "population": 38659,
-            "wiki_link": "https://en.wikipedia.org/wiki/Saint Martin"
-        },
-        "Bolivia": {
-            "population": 11673029,
-            "wiki_link": "https://en.wikipedia.org/wiki/Bolivia"
-        },
-        "Trinidad and Tobago": {
-            "population": 1399491,
-            "wiki_link": "https://en.wikipedia.org/wiki/Trinidad and Tobago"
-        },
-        "Panama": {
-            "population": 4314768,
-            "wiki_link": "https://en.wikipedia.org/wiki/Panama"
-        }
+    "Kyrgyzstan": {
+      "population": 6591600,
+      "wiki_link": "https://en.wikipedia.org/wiki/Kyrgyzstan"
     },
-    "Oceania": {
-        "New Zealand": {
-            "population": 5084300,
-            "wiki_link": "https://en.wikipedia.org/wiki/New Zealand"
-        },
-        "Northern Mariana Islands": {
-            "population": 57557,
-            "wiki_link": "https://en.wikipedia.org/wiki/Northern Mariana Islands"
-        },
-        "Fiji": {
-            "population": 896444,
-            "wiki_link": "https://en.wikipedia.org/wiki/Fiji"
-        },
-        "Australia": {
-            "population": 25687041,
-            "wiki_link": "https://en.wikipedia.org/wiki/Australia"
-        },
-        "Nauru": {
-            "population": 10834,
-            "wiki_link": "https://en.wikipedia.org/wiki/Nauru"
-        },
-        "Papua New Guinea": {
-            "population": 8947027,
-            "wiki_link": "https://en.wikipedia.org/wiki/Papua New Guinea"
-        },
-        "Vanuatu": {
-            "population": 307150,
-            "wiki_link": "https://en.wikipedia.org/wiki/Vanuatu"
-        },
-        "Cook Islands": {
-            "population": 18100,
-            "wiki_link": "https://en.wikipedia.org/wiki/Cook Islands"
-        },
-        "Cocos (Keeling) Islands": {
-            "population": 544,
-            "wiki_link": "https://en.wikipedia.org/wiki/Cocos (Keeling) Islands"
-        },
-        "Samoa": {
-            "population": 198410,
-            "wiki_link": "https://en.wikipedia.org/wiki/Samoa"
-        },
-        "Micronesia": {
-            "population": 115021,
-            "wiki_link": "https://en.wikipedia.org/wiki/Micronesia"
-        },
-        "American Samoa": {
-            "population": 55197,
-            "wiki_link": "https://en.wikipedia.org/wiki/American Samoa"
-        },
-        "Christmas Island": {
-            "population": 2072,
-            "wiki_link": "https://en.wikipedia.org/wiki/Christmas Island"
-        },
-        "Solomon Islands": {
-            "population": 686878,
-            "wiki_link": "https://en.wikipedia.org/wiki/Solomon Islands"
-        },
-        "Kiribati": {
-            "population": 119446,
-            "wiki_link": "https://en.wikipedia.org/wiki/Kiribati"
-        },
-        "Tokelau": {
-            "population": 1411,
-            "wiki_link": "https://en.wikipedia.org/wiki/Tokelau"
-        },
-        "Pitcairn Islands": {
-            "population": 56,
-            "wiki_link": "https://en.wikipedia.org/wiki/Pitcairn Islands"
-        },
-        "Wallis and Futuna": {
-            "population": 11750,
-            "wiki_link": "https://en.wikipedia.org/wiki/Wallis and Futuna"
-        },
-        "Tuvalu": {
-            "population": 11792,
-            "wiki_link": "https://en.wikipedia.org/wiki/Tuvalu"
-        },
-        "Marshall Islands": {
-            "population": 59194,
-            "wiki_link": "https://en.wikipedia.org/wiki/Marshall Islands"
-        },
-        "French Polynesia": {
-            "population": 280904,
-            "wiki_link": "https://en.wikipedia.org/wiki/French Polynesia"
-        },
-        "Guam": {
-            "population": 168783,
-            "wiki_link": "https://en.wikipedia.org/wiki/Guam"
-        },
-        "New Caledonia": {
-            "population": 271960,
-            "wiki_link": "https://en.wikipedia.org/wiki/New Caledonia"
-        },
-        "Palau": {
-            "population": 18092,
-            "wiki_link": "https://en.wikipedia.org/wiki/Palau"
-        },
-        "Niue": {
-            "population": 1470,
-            "wiki_link": "https://en.wikipedia.org/wiki/Niue"
-        },
-        "Tonga": {
-            "population": 105697,
-            "wiki_link": "https://en.wikipedia.org/wiki/Tonga"
-        },
-        "Norfolk Island": {
-            "population": 2302,
-            "wiki_link": "https://en.wikipedia.org/wiki/Norfolk Island"
-        }
+    "Turkmenistan": {
+      "population": 6031187,
+      "wiki_link": "https://en.wikipedia.org/wiki/Turkmenistan"
     },
-    "Antarctic": {
-        "Bouvet Island": {
-            "population": 0,
-            "wiki_link": "https://en.wikipedia.org/wiki/Bouvet Island"
-        },
-        "Antarctica": {
-            "population": 1000,
-            "wiki_link": "https://en.wikipedia.org/wiki/Antarctica"
-        },
-        "South Georgia": {
-            "population": 30,
-            "wiki_link": "https://en.wikipedia.org/wiki/South Georgia"
-        },
-        "French Southern and Antarctic Lands": {
-            "population": 400,
-            "wiki_link": "https://en.wikipedia.org/wiki/French Southern and Antarctic Lands"
-        },
-        "Heard Island and McDonald Islands": {
-            "population": 0,
-            "wiki_link": "https://en.wikipedia.org/wiki/Heard Island and McDonald Islands"
-        }
+    "Malaysia": {
+      "population": 32365998,
+      "wiki_link": "https://en.wikipedia.org/wiki/Malaysia"
     },
-    "Africa": {
-        "Togo": {
-            "population": 8278737,
-            "wiki_link": "https://en.wikipedia.org/wiki/Togo"
-        },
-        "Tunisia": {
-            "population": 11818618,
-            "wiki_link": "https://en.wikipedia.org/wiki/Tunisia"
-        },
-        "Niger": {
-            "population": 24206636,
-            "wiki_link": "https://en.wikipedia.org/wiki/Niger"
-        },
-        "Morocco": {
-            "population": 36910558,
-            "wiki_link": "https://en.wikipedia.org/wiki/Morocco"
-        },
-        "Mauritania": {
-            "population": 4649660,
-            "wiki_link": "https://en.wikipedia.org/wiki/Mauritania"
-        },
-        "Djibouti": {
-            "population": 988002,
-            "wiki_link": "https://en.wikipedia.org/wiki/Djibouti"
-        },
-        "Madagascar": {
-            "population": 27691019,
-            "wiki_link": "https://en.wikipedia.org/wiki/Madagascar"
-        },
-        "South Africa": {
-            "population": 59308690,
-            "wiki_link": "https://en.wikipedia.org/wiki/South Africa"
-        },
-        "Guinea-Bissau": {
-            "population": 1967998,
-            "wiki_link": "https://en.wikipedia.org/wiki/Guinea-Bissau"
-        },
-        "Zambia": {
-            "population": 18383956,
-            "wiki_link": "https://en.wikipedia.org/wiki/Zambia"
-        },
-        "Equatorial Guinea": {
-            "population": 1402985,
-            "wiki_link": "https://en.wikipedia.org/wiki/Equatorial Guinea"
-        },
-        "Republic of the Congo": {
-            "population": 89561404,
-            "wiki_link": "https://en.wikipedia.org/wiki/Republic of the Congo"
-        },
-        "Burundi": {
-            "population": 11890781,
-            "wiki_link": "https://en.wikipedia.org/wiki/Burundi"
-        },
-        "Zimbabwe": {
-            "population": 14862927,
-            "wiki_link": "https://en.wikipedia.org/wiki/Zimbabwe"
-        },
-        "Guinea": {
-            "population": 13132792,
-            "wiki_link": "https://en.wikipedia.org/wiki/Guinea"
-        },
-        "Botswana": {
-            "population": 2351625,
-            "wiki_link": "https://en.wikipedia.org/wiki/Botswana"
-        },
-        "Lesotho": {
-            "population": 2142252,
-            "wiki_link": "https://en.wikipedia.org/wiki/Lesotho"
-        },
-        "Eritrea": {
-            "population": 5352000,
-            "wiki_link": "https://en.wikipedia.org/wiki/Eritrea"
-        },
-        "Kenya": {
-            "population": 53771300,
-            "wiki_link": "https://en.wikipedia.org/wiki/Kenya"
-        },
-        "Comoros": {
-            "population": 869595,
-            "wiki_link": "https://en.wikipedia.org/wiki/Comoros"
-        },
-        "Cape Verde": {
-            "population": 555988,
-            "wiki_link": "https://en.wikipedia.org/wiki/Cape Verde"
-        },
-        "Malawi": {
-            "population": 19129955,
-            "wiki_link": "https://en.wikipedia.org/wiki/Malawi"
-        },
-        "Chad": {
-            "population": 16425859,
-            "wiki_link": "https://en.wikipedia.org/wiki/Chad"
-        },
-        "Gabon": {
-            "population": 2225728,
-            "wiki_link": "https://en.wikipedia.org/wiki/Gabon"
-        },
-        "Gambia": {
-            "population": 2416664,
-            "wiki_link": "https://en.wikipedia.org/wiki/Gambia"
-        },
-        "Tanzania": {
-            "population": 59734213,
-            "wiki_link": "https://en.wikipedia.org/wiki/Tanzania"
-        },
-        "Liberia": {
-            "population": 5057677,
-            "wiki_link": "https://en.wikipedia.org/wiki/Liberia"
-        },
-        "Mali": {
-            "population": 20250834,
-            "wiki_link": "https://en.wikipedia.org/wiki/Mali"
-        },
-        "Somalia": {
-            "population": 15893219,
-            "wiki_link": "https://en.wikipedia.org/wiki/Somalia"
-        },
-        "Algeria": {
-            "population": 44700000,
-            "wiki_link": "https://en.wikipedia.org/wiki/Algeria"
-        },
-        "Eswatini": {
-            "population": 1160164,
-            "wiki_link": "https://en.wikipedia.org/wiki/Eswatini"
-        },
-        "Ethiopia": {
-            "population": 114963583,
-            "wiki_link": "https://en.wikipedia.org/wiki/Ethiopia"
-        },
-        "Egypt": {
-            "population": 102334403,
-            "wiki_link": "https://en.wikipedia.org/wiki/Egypt"
-        },
-        "Cameroon": {
-            "population": 26545864,
-            "wiki_link": "https://en.wikipedia.org/wiki/Cameroon"
-        },
-        "S\u00e3o Tom\u00e9 and Pr\u00edncipe": {
-            "population": 219161,
-            "wiki_link": "https://en.wikipedia.org/wiki/S\u00e3o Tom\u00e9 and Pr\u00edncipe"
-        },
-        "Sudan": {
-            "population": 43849269,
-            "wiki_link": "https://en.wikipedia.org/wiki/Sudan"
-        },
-        "DR Congo": {
-            "population": 89561404,
-            "wiki_link": "https://en.wikipedia.org/wiki/DR Congo"
-        },
-        "Rwanda": {
-            "population": 12952209,
-            "wiki_link": "https://en.wikipedia.org/wiki/Rwanda"
-        },
-        "Benin": {
-            "population": 12123198,
-            "wiki_link": "https://en.wikipedia.org/wiki/Benin"
-        },
-        "Central African Republic": {
-            "population": 4829764,
-            "wiki_link": "https://en.wikipedia.org/wiki/Central African Republic"
-        },
-        "Burkina Faso": {
-            "population": 20903278,
-            "wiki_link": "https://en.wikipedia.org/wiki/Burkina Faso"
-        },
-        "Sierra Leone": {
-            "population": 7976985,
-            "wiki_link": "https://en.wikipedia.org/wiki/Sierra Leone"
-        },
-        "Mauritius": {
-            "population": 1265740,
-            "wiki_link": "https://en.wikipedia.org/wiki/Mauritius"
-        },
-        "R\u00e9union": {
-            "population": 840974,
-            "wiki_link": "https://en.wikipedia.org/wiki/R\u00e9union"
-        },
-        "Angola": {
-            "population": 32866268,
-            "wiki_link": "https://en.wikipedia.org/wiki/Angola"
-        },
-        "Ivory Coast": {
-            "population": 26378275,
-            "wiki_link": "https://en.wikipedia.org/wiki/Ivory Coast"
-        },
-        "Mozambique": {
-            "population": 31255435,
-            "wiki_link": "https://en.wikipedia.org/wiki/Mozambique"
-        },
-        "Ghana": {
-            "population": 31072945,
-            "wiki_link": "https://en.wikipedia.org/wiki/Ghana"
-        },
-        "Uganda": {
-            "population": 45741000,
-            "wiki_link": "https://en.wikipedia.org/wiki/Uganda"
-        },
-        "Nigeria": {
-            "population": 206139587,
-            "wiki_link": "https://en.wikipedia.org/wiki/Nigeria"
-        },
-        "Namibia": {
-            "population": 2540916,
-            "wiki_link": "https://en.wikipedia.org/wiki/Namibia"
-        },
-        "Mayotte": {
-            "population": 226915,
-            "wiki_link": "https://en.wikipedia.org/wiki/Mayotte"
-        },
-        "Libya": {
-            "population": 6871287,
-            "wiki_link": "https://en.wikipedia.org/wiki/Libya"
-        },
-        "British Indian Ocean Territory": {
-            "population": 3000,
-            "wiki_link": "https://en.wikipedia.org/wiki/British Indian Ocean Territory"
-        },
-        "Western Sahara": {
-            "population": 510713,
-            "wiki_link": "https://en.wikipedia.org/wiki/Western Sahara"
-        },
-        "Saint Helena, Ascension and Tristan da Cunha": {
-            "population": 53192,
-            "wiki_link": "https://en.wikipedia.org/wiki/Saint Helena, Ascension and Tristan da Cunha"
-        },
-        "South Sudan": {
-            "population": 11193729,
-            "wiki_link": "https://en.wikipedia.org/wiki/South Sudan"
-        },
-        "Senegal": {
-            "population": 16743930,
-            "wiki_link": "https://en.wikipedia.org/wiki/Senegal"
-        },
-        "Seychelles": {
-            "population": 98462,
-            "wiki_link": "https://en.wikipedia.org/wiki/Seychelles"
-        }
+    "South Korea": {
+      "population": 51780579,
+      "wiki_link": "https://en.wikipedia.org/wiki/South Korea"
+    },
+    "Sri Lanka": {
+      "population": 21919000,
+      "wiki_link": "https://en.wikipedia.org/wiki/Sri Lanka"
+    },
+    "Palestine": {
+      "population": 4803269,
+      "wiki_link": "https://en.wikipedia.org/wiki/Palestine"
+    },
+    "Tajikistan": {
+      "population": 9537642,
+      "wiki_link": "https://en.wikipedia.org/wiki/Tajikistan"
+    },
+    "Bangladesh": {
+      "population": 164689383,
+      "wiki_link": "https://en.wikipedia.org/wiki/Bangladesh"
+    },
+    "Kuwait": {
+      "population": 4270563,
+      "wiki_link": "https://en.wikipedia.org/wiki/Kuwait"
+    },
+    "Qatar": {
+      "population": 2881060,
+      "wiki_link": "https://en.wikipedia.org/wiki/Qatar"
+    },
+    "Hong Kong": {
+      "population": 7500700,
+      "wiki_link": "https://en.wikipedia.org/wiki/Hong Kong"
+    },
+    "China": {
+      "population": 1402112000,
+      "wiki_link": "https://en.wikipedia.org/wiki/China"
+    },
+    "Georgia": {
+      "population": 3714000,
+      "wiki_link": "https://en.wikipedia.org/wiki/Georgia"
+    },
+    "Thailand": {
+      "population": 69799978,
+      "wiki_link": "https://en.wikipedia.org/wiki/Thailand"
+    },
+    "Armenia": {
+      "population": 2963234,
+      "wiki_link": "https://en.wikipedia.org/wiki/Armenia"
+    },
+    "Lebanon": {
+      "population": 6825442,
+      "wiki_link": "https://en.wikipedia.org/wiki/Lebanon"
+    },
+    "Jordan": {
+      "population": 10203140,
+      "wiki_link": "https://en.wikipedia.org/wiki/Jordan"
+    },
+    "Pakistan": {
+      "population": 220892331,
+      "wiki_link": "https://en.wikipedia.org/wiki/Pakistan"
+    },
+    "Vietnam": {
+      "population": 97338583,
+      "wiki_link": "https://en.wikipedia.org/wiki/Vietnam"
+    },
+    "Nepal": {
+      "population": 29136808,
+      "wiki_link": "https://en.wikipedia.org/wiki/Nepal"
+    },
+    "Laos": {
+      "population": 7275556,
+      "wiki_link": "https://en.wikipedia.org/wiki/Laos"
+    },
+    "Israel": {
+      "population": 9216900,
+      "wiki_link": "https://en.wikipedia.org/wiki/Israel"
+    },
+    "Indonesia": {
+      "population": 273523621,
+      "wiki_link": "https://en.wikipedia.org/wiki/Indonesia"
+    },
+    "Japan": {
+      "population": 125836021,
+      "wiki_link": "https://en.wikipedia.org/wiki/Japan"
+    },
+    "Myanmar": {
+      "population": 54409794,
+      "wiki_link": "https://en.wikipedia.org/wiki/Myanmar"
+    },
+    "Mongolia": {
+      "population": 3278292,
+      "wiki_link": "https://en.wikipedia.org/wiki/Mongolia"
+    },
+    "Yemen": {
+      "population": 29825968,
+      "wiki_link": "https://en.wikipedia.org/wiki/Yemen"
+    },
+    "Maldives": {
+      "population": 540542,
+      "wiki_link": "https://en.wikipedia.org/wiki/Maldives"
+    },
+    "Timor-Leste": {
+      "population": 1318442,
+      "wiki_link": "https://en.wikipedia.org/wiki/Timor-Leste"
+    },
+    "Iran": {
+      "population": 83992953,
+      "wiki_link": "https://en.wikipedia.org/wiki/Iran"
+    },
+    "Bahrain": {
+      "population": 1701583,
+      "wiki_link": "https://en.wikipedia.org/wiki/Bahrain"
+    },
+    "Oman": {
+      "population": 5106622,
+      "wiki_link": "https://en.wikipedia.org/wiki/Oman"
+    },
+    "Brunei": {
+      "population": 437483,
+      "wiki_link": "https://en.wikipedia.org/wiki/Brunei"
+    },
+    "Philippines": {
+      "population": 109581085,
+      "wiki_link": "https://en.wikipedia.org/wiki/Philippines"
+    },
+    "Afghanistan": {
+      "population": 40218234,
+      "wiki_link": "https://en.wikipedia.org/wiki/Afghanistan"
+    },
+    "Taiwan": {
+      "population": 23503349,
+      "wiki_link": "https://en.wikipedia.org/wiki/Taiwan"
+    },
+    "Kazakhstan": {
+      "population": 18754440,
+      "wiki_link": "https://en.wikipedia.org/wiki/Kazakhstan"
+    },
+    "Singapore": {
+      "population": 5685807,
+      "wiki_link": "https://en.wikipedia.org/wiki/Singapore"
+    },
+    "Syria": {
+      "population": 17500657,
+      "wiki_link": "https://en.wikipedia.org/wiki/Syria"
+    },
+    "Azerbaijan": {
+      "population": 10110116,
+      "wiki_link": "https://en.wikipedia.org/wiki/Azerbaijan"
+    },
+    "Bhutan": {
+      "population": 771612,
+      "wiki_link": "https://en.wikipedia.org/wiki/Bhutan"
+    },
+    "Uzbekistan": {
+      "population": 34232050,
+      "wiki_link": "https://en.wikipedia.org/wiki/Uzbekistan"
+    },
+    "Macau": {
+      "population": 649342,
+      "wiki_link": "https://en.wikipedia.org/wiki/Macau"
+    },
+    "Cambodia": {
+      "population": 16718971,
+      "wiki_link": "https://en.wikipedia.org/wiki/Cambodia"
+    },
+    "Iraq": {
+      "population": 40222503,
+      "wiki_link": "https://en.wikipedia.org/wiki/Iraq"
+    },
+    "Turkey": {
+      "population": 84339067,
+      "wiki_link": "https://en.wikipedia.org/wiki/Turkey"
+    },
+    "Saudi Arabia": {
+      "population": 34813867,
+      "wiki_link": "https://en.wikipedia.org/wiki/Saudi Arabia"
+    },
+    "United Arab Emirates": {
+      "population": 9890400,
+      "wiki_link": "https://en.wikipedia.org/wiki/United Arab Emirates"
     }
+  },
+  "Europe": {
+    "Norway": {
+      "population": 5379475,
+      "wiki_link": "https://en.wikipedia.org/wiki/Norway"
+    },
+    "Denmark": {
+      "population": 5831404,
+      "wiki_link": "https://en.wikipedia.org/wiki/Denmark"
+    },
+    "Portugal": {
+      "population": 10305564,
+      "wiki_link": "https://en.wikipedia.org/wiki/Portugal"
+    },
+    "Andorra": {
+      "population": 77265,
+      "wiki_link": "https://en.wikipedia.org/wiki/Andorra"
+    },
+    "Moldova": {
+      "population": 2617820,
+      "wiki_link": "https://en.wikipedia.org/wiki/Moldova"
+    },
+    "Ireland": {
+      "population": 4994724,
+      "wiki_link": "https://en.wikipedia.org/wiki/Ireland"
+    },
+    "Italy": {
+      "population": 59554023,
+      "wiki_link": "https://en.wikipedia.org/wiki/Italy"
+    },
+    "Serbia": {
+      "population": 6908224,
+      "wiki_link": "https://en.wikipedia.org/wiki/Serbia"
+    },
+    "Estonia": {
+      "population": 1331057,
+      "wiki_link": "https://en.wikipedia.org/wiki/Estonia"
+    },
+    "Monaco": {
+      "population": 39244,
+      "wiki_link": "https://en.wikipedia.org/wiki/Monaco"
+    },
+    "Russia": {
+      "population": 144104080,
+      "wiki_link": "https://en.wikipedia.org/wiki/Russia"
+    },
+    "Poland": {
+      "population": 37950802,
+      "wiki_link": "https://en.wikipedia.org/wiki/Poland"
+    },
+    "Svalbard and Jan Mayen": {
+      "population": 2562,
+      "wiki_link": "https://en.wikipedia.org/wiki/Svalbard and Jan Mayen"
+    },
+    "Slovakia": {
+      "population": 5458827,
+      "wiki_link": "https://en.wikipedia.org/wiki/Slovakia"
+    },
+    "Croatia": {
+      "population": 4047200,
+      "wiki_link": "https://en.wikipedia.org/wiki/Croatia"
+    },
+    "Luxembourg": {
+      "population": 632275,
+      "wiki_link": "https://en.wikipedia.org/wiki/Luxembourg"
+    },
+    "Latvia": {
+      "population": 1901548,
+      "wiki_link": "https://en.wikipedia.org/wiki/Latvia"
+    },
+    "Gibraltar": {
+      "population": 33691,
+      "wiki_link": "https://en.wikipedia.org/wiki/Gibraltar"
+    },
+    "Bulgaria": {
+      "population": 6927288,
+      "wiki_link": "https://en.wikipedia.org/wiki/Bulgaria"
+    },
+    "Guernsey": {
+      "population": 62999,
+      "wiki_link": "https://en.wikipedia.org/wiki/Guernsey"
+    },
+    "Montenegro": {
+      "population": 621718,
+      "wiki_link": "https://en.wikipedia.org/wiki/Montenegro"
+    },
+    "Sweden": {
+      "population": 10353442,
+      "wiki_link": "https://en.wikipedia.org/wiki/Sweden"
+    },
+    "Kosovo": {
+      "population": 1775378,
+      "wiki_link": "https://en.wikipedia.org/wiki/Kosovo"
+    },
+    "Malta": {
+      "population": 525285,
+      "wiki_link": "https://en.wikipedia.org/wiki/Malta"
+    },
+    "Bosnia and Herzegovina": {
+      "population": 3280815,
+      "wiki_link": "https://en.wikipedia.org/wiki/Bosnia and Herzegovina"
+    },
+    "Greece": {
+      "population": 10715549,
+      "wiki_link": "https://en.wikipedia.org/wiki/Greece"
+    },
+    "Jersey": {
+      "population": 100800,
+      "wiki_link": "https://en.wikipedia.org/wiki/Jersey"
+    },
+    "San Marino": {
+      "population": 33938,
+      "wiki_link": "https://en.wikipedia.org/wiki/San Marino"
+    },
+    "Vatican City": {
+      "population": 451,
+      "wiki_link": "https://en.wikipedia.org/wiki/Vatican City"
+    },
+    "Faroe Islands": {
+      "population": 48865,
+      "wiki_link": "https://en.wikipedia.org/wiki/Faroe Islands"
+    },
+    "Belarus": {
+      "population": 9398861,
+      "wiki_link": "https://en.wikipedia.org/wiki/Belarus"
+    },
+    "France": {
+      "population": 67391582,
+      "wiki_link": "https://en.wikipedia.org/wiki/France"
+    },
+    "Liechtenstein": {
+      "population": 38137,
+      "wiki_link": "https://en.wikipedia.org/wiki/Liechtenstein"
+    },
+    "Germany": {
+      "population": 83240525,
+      "wiki_link": "https://en.wikipedia.org/wiki/Germany"
+    },
+    "Romania": {
+      "population": 19286123,
+      "wiki_link": "https://en.wikipedia.org/wiki/Romania"
+    },
+    "Belgium": {
+      "population": 11555997,
+      "wiki_link": "https://en.wikipedia.org/wiki/Belgium"
+    },
+    "Albania": {
+      "population": 2837743,
+      "wiki_link": "https://en.wikipedia.org/wiki/Albania"
+    },
+    "Slovenia": {
+      "population": 2100126,
+      "wiki_link": "https://en.wikipedia.org/wiki/Slovenia"
+    },
+    "Lithuania": {
+      "population": 2794700,
+      "wiki_link": "https://en.wikipedia.org/wiki/Lithuania"
+    },
+    "Iceland": {
+      "population": 366425,
+      "wiki_link": "https://en.wikipedia.org/wiki/Iceland"
+    },
+    "Finland": {
+      "population": 5530719,
+      "wiki_link": "https://en.wikipedia.org/wiki/Finland"
+    },
+    "Hungary": {
+      "population": 9749763,
+      "wiki_link": "https://en.wikipedia.org/wiki/Hungary"
+    },
+    "\u00c5land Islands": {
+      "population": 29458,
+      "wiki_link": "https://en.wikipedia.org/wiki/\u00c5land Islands"
+    },
+    "Austria": {
+      "population": 8917205,
+      "wiki_link": "https://en.wikipedia.org/wiki/Austria"
+    },
+    "Cyprus": {
+      "population": 1207361,
+      "wiki_link": "https://en.wikipedia.org/wiki/Cyprus"
+    },
+    "Isle of Man": {
+      "population": 85032,
+      "wiki_link": "https://en.wikipedia.org/wiki/Isle of Man"
+    },
+    "Czechia": {
+      "population": 10698896,
+      "wiki_link": "https://en.wikipedia.org/wiki/Czechia"
+    },
+    "Netherlands": {
+      "population": 16655799,
+      "wiki_link": "https://en.wikipedia.org/wiki/Netherlands"
+    },
+    "Ukraine": {
+      "population": 44134693,
+      "wiki_link": "https://en.wikipedia.org/wiki/Ukraine"
+    },
+    "North Macedonia": {
+      "population": 2077132,
+      "wiki_link": "https://en.wikipedia.org/wiki/North Macedonia"
+    },
+    "Spain": {
+      "population": 47351567,
+      "wiki_link": "https://en.wikipedia.org/wiki/Spain"
+    },
+    "Switzerland": {
+      "population": 8654622,
+      "wiki_link": "https://en.wikipedia.org/wiki/Switzerland"
+    },
+    "United Kingdom": {
+      "population": 67215293,
+      "wiki_link": "https://en.wikipedia.org/wiki/United Kingdom"
+    }
+  },
+  "NorthAmerica": {
+    "Mexico": {
+      "population": 128932753,
+      "wiki_link": "https://en.wikipedia.org/wiki/Mexico"
+    },
+    "Greenland": {
+      "population": 56367,
+      "wiki_link": "https://en.wikipedia.org/wiki/Greenland"
+    },
+    "United States": {
+      "population": 329484123,
+      "wiki_link": "https://en.wikipedia.org/wiki/United States"
+    },
+    "Canada": {
+      "population": 38005238,
+      "wiki_link": "https://en.wikipedia.org/wiki/Canada"
+    }
+  },
+  "SouthAmerica": {
+    "Dominican Republic": {
+      "population": 10847904,
+      "wiki_link": "https://en.wikipedia.org/wiki/Dominican Republic"
+    },
+
+    "Sint Maarten": {
+      "population": 40812,
+      "wiki_link": "https://en.wikipedia.org/wiki/Sint Maarten"
+    },
+    "Brazil": {
+      "population": 212559409,
+      "wiki_link": "https://en.wikipedia.org/wiki/Brazil"
+    },
+
+    "Uruguay": {
+      "population": 3473727,
+      "wiki_link": "https://en.wikipedia.org/wiki/Uruguay"
+    },
+    "French Guiana": {
+      "population": 254541,
+      "wiki_link": "https://en.wikipedia.org/wiki/French Guiana"
+    },
+    "Argentina": {
+      "population": 45376763,
+      "wiki_link": "https://en.wikipedia.org/wiki/Argentina"
+    },
+    "Honduras": {
+      "population": 9904608,
+      "wiki_link": "https://en.wikipedia.org/wiki/Honduras"
+    },
+    "Caribbean Netherlands": {
+      "population": 25987,
+      "wiki_link": "https://en.wikipedia.org/wiki/Caribbean Netherlands"
+    },
+    "Peru": {
+      "population": 32971846,
+      "wiki_link": "https://en.wikipedia.org/wiki/Peru"
+    },
+    "Puerto Rico": {
+      "population": 3194034,
+      "wiki_link": "https://en.wikipedia.org/wiki/Puerto Rico"
+    },
+    "Ecuador": {
+      "population": 17643060,
+      "wiki_link": "https://en.wikipedia.org/wiki/Ecuador"
+    },
+    "Anguilla": {
+      "population": 13452,
+      "wiki_link": "https://en.wikipedia.org/wiki/Anguilla"
+    },
+    "Cura\u00e7ao": {
+      "population": 155014,
+      "wiki_link": "https://en.wikipedia.org/wiki/Cura\u00e7ao"
+    },
+    "Saint Pierre and Miquelon": {
+      "population": 6069,
+      "wiki_link": "https://en.wikipedia.org/wiki/Saint Pierre and Miquelon"
+    },
+    "Chile": {
+      "population": 19116209,
+      "wiki_link": "https://en.wikipedia.org/wiki/Chile"
+    },
+    "Venezuela": {
+      "population": 28435943,
+      "wiki_link": "https://en.wikipedia.org/wiki/Venezuela"
+    },
+    "Saint Kitts and Nevis": {
+      "population": 53192,
+      "wiki_link": "https://en.wikipedia.org/wiki/Saint Kitts and Nevis"
+    },
+    "Antigua and Barbuda": {
+      "population": 97928,
+      "wiki_link": "https://en.wikipedia.org/wiki/Antigua and Barbuda"
+    },
+
+    "British Virgin Islands": {
+      "population": 30237,
+      "wiki_link": "https://en.wikipedia.org/wiki/British Virgin Islands"
+    },
+    "Colombia": {
+      "population": 50882884,
+      "wiki_link": "https://en.wikipedia.org/wiki/Colombia"
+    },
+    "Falkland Islands": {
+      "population": 2563,
+      "wiki_link": "https://en.wikipedia.org/wiki/Falkland Islands"
+    },
+    "Guadeloupe": {
+      "population": 400132,
+      "wiki_link": "https://en.wikipedia.org/wiki/Guadeloupe"
+    },
+    "United States Virgin Islands": {
+      "population": 106290,
+      "wiki_link": "https://en.wikipedia.org/wiki/United States Virgin Islands"
+    },
+    "Saint Barth\u00e9lemy": {
+      "population": 4255,
+      "wiki_link": "https://en.wikipedia.org/wiki/Saint Barth\u00e9lemy"
+    },
+    "Dominica": {
+      "population": 71991,
+      "wiki_link": "https://en.wikipedia.org/wiki/Dominica"
+    },
+    "Jamaica": {
+      "population": 2961161,
+      "wiki_link": "https://en.wikipedia.org/wiki/Jamaica"
+    },
+    "Costa Rica": {
+      "population": 5094114,
+      "wiki_link": "https://en.wikipedia.org/wiki/Costa Rica"
+    },
+
+    "Belize": {
+      "population": 397621,
+      "wiki_link": "https://en.wikipedia.org/wiki/Belize"
+    },
+    "Montserrat": {
+      "population": 4922,
+      "wiki_link": "https://en.wikipedia.org/wiki/Montserrat"
+    },
+    "Saint Vincent and the Grenadines": {
+      "population": 110947,
+      "wiki_link": "https://en.wikipedia.org/wiki/Saint Vincent and the Grenadines"
+    },
+    "El Salvador": {
+      "population": 6486201,
+      "wiki_link": "https://en.wikipedia.org/wiki/El Salvador"
+    },
+    "Cuba": {
+      "population": 11326616,
+      "wiki_link": "https://en.wikipedia.org/wiki/Cuba"
+    },
+    "Barbados": {
+      "population": 287371,
+      "wiki_link": "https://en.wikipedia.org/wiki/Barbados"
+    },
+    "Aruba": {
+      "population": 106766,
+      "wiki_link": "https://en.wikipedia.org/wiki/Aruba"
+    },
+    "Nicaragua": {
+      "population": 6624554,
+      "wiki_link": "https://en.wikipedia.org/wiki/Nicaragua"
+    },
+    "Suriname": {
+      "population": 586634,
+      "wiki_link": "https://en.wikipedia.org/wiki/Suriname"
+    },
+    "Bahamas": {
+      "population": 393248,
+      "wiki_link": "https://en.wikipedia.org/wiki/Bahamas"
+    },
+    "Martinique": {
+      "population": 378243,
+      "wiki_link": "https://en.wikipedia.org/wiki/Martinique"
+    },
+    "Guatemala": {
+      "population": 16858333,
+      "wiki_link": "https://en.wikipedia.org/wiki/Guatemala"
+    },
+    "Paraguay": {
+      "population": 7132530,
+      "wiki_link": "https://en.wikipedia.org/wiki/Paraguay"
+    },
+    "Saint Lucia": {
+      "population": 183629,
+      "wiki_link": "https://en.wikipedia.org/wiki/Saint Lucia"
+    },
+    "Turks and Caicos Islands": {
+      "population": 38718,
+      "wiki_link": "https://en.wikipedia.org/wiki/Turks and Caicos Islands"
+    },
+    "Cayman Islands": {
+      "population": 65720,
+      "wiki_link": "https://en.wikipedia.org/wiki/Cayman Islands"
+    },
+    "Haiti": {
+      "population": 11402533,
+      "wiki_link": "https://en.wikipedia.org/wiki/Haiti"
+    },
+    "United States Minor Outlying Islands": {
+      "population": 300,
+      "wiki_link": "https://en.wikipedia.org/wiki/United States Minor Outlying Islands"
+    },
+    "Bermuda": {
+      "population": 63903,
+      "wiki_link": "https://en.wikipedia.org/wiki/Bermuda"
+    },
+    "Grenada": {
+      "population": 112519,
+      "wiki_link": "https://en.wikipedia.org/wiki/Grenada"
+    },
+    "Guyana": {
+      "population": 786559,
+      "wiki_link": "https://en.wikipedia.org/wiki/Guyana"
+    },
+    "Saint Martin": {
+      "population": 38659,
+      "wiki_link": "https://en.wikipedia.org/wiki/Saint Martin"
+    },
+    "Bolivia": {
+      "population": 11673029,
+      "wiki_link": "https://en.wikipedia.org/wiki/Bolivia"
+    },
+    "Trinidad and Tobago": {
+      "population": 1399491,
+      "wiki_link": "https://en.wikipedia.org/wiki/Trinidad and Tobago"
+    },
+    "Panama": {
+      "population": 4314768,
+      "wiki_link": "https://en.wikipedia.org/wiki/Panama"
+    }
+  },
+  "Oceania": {
+    "New Zealand": {
+      "population": 5084300,
+      "wiki_link": "https://en.wikipedia.org/wiki/New Zealand"
+    },
+    "Northern Mariana Islands": {
+      "population": 57557,
+      "wiki_link": "https://en.wikipedia.org/wiki/Northern Mariana Islands"
+    },
+    "Fiji": {
+      "population": 896444,
+      "wiki_link": "https://en.wikipedia.org/wiki/Fiji"
+    },
+    "Australia": {
+      "population": 25687041,
+      "wiki_link": "https://en.wikipedia.org/wiki/Australia"
+    },
+    "Nauru": {
+      "population": 10834,
+      "wiki_link": "https://en.wikipedia.org/wiki/Nauru"
+    },
+    "Papua New Guinea": {
+      "population": 8947027,
+      "wiki_link": "https://en.wikipedia.org/wiki/Papua New Guinea"
+    },
+    "Vanuatu": {
+      "population": 307150,
+      "wiki_link": "https://en.wikipedia.org/wiki/Vanuatu"
+    },
+    "Cook Islands": {
+      "population": 18100,
+      "wiki_link": "https://en.wikipedia.org/wiki/Cook Islands"
+    },
+    "Cocos (Keeling) Islands": {
+      "population": 544,
+      "wiki_link": "https://en.wikipedia.org/wiki/Cocos (Keeling) Islands"
+    },
+    "Samoa": {
+      "population": 198410,
+      "wiki_link": "https://en.wikipedia.org/wiki/Samoa"
+    },
+    "Micronesia": {
+      "population": 115021,
+      "wiki_link": "https://en.wikipedia.org/wiki/Micronesia"
+    },
+    "American Samoa": {
+      "population": 55197,
+      "wiki_link": "https://en.wikipedia.org/wiki/American Samoa"
+    },
+    "Christmas Island": {
+      "population": 2072,
+      "wiki_link": "https://en.wikipedia.org/wiki/Christmas Island"
+    },
+    "Solomon Islands": {
+      "population": 686878,
+      "wiki_link": "https://en.wikipedia.org/wiki/Solomon Islands"
+    },
+    "Kiribati": {
+      "population": 119446,
+      "wiki_link": "https://en.wikipedia.org/wiki/Kiribati"
+    },
+    "Tokelau": {
+      "population": 1411,
+      "wiki_link": "https://en.wikipedia.org/wiki/Tokelau"
+    },
+    "Pitcairn Islands": {
+      "population": 56,
+      "wiki_link": "https://en.wikipedia.org/wiki/Pitcairn Islands"
+    },
+    "Wallis and Futuna": {
+      "population": 11750,
+      "wiki_link": "https://en.wikipedia.org/wiki/Wallis and Futuna"
+    },
+    "Tuvalu": {
+      "population": 11792,
+      "wiki_link": "https://en.wikipedia.org/wiki/Tuvalu"
+    },
+    "Marshall Islands": {
+      "population": 59194,
+      "wiki_link": "https://en.wikipedia.org/wiki/Marshall Islands"
+    },
+    "French Polynesia": {
+      "population": 280904,
+      "wiki_link": "https://en.wikipedia.org/wiki/French Polynesia"
+    },
+    "Guam": {
+      "population": 168783,
+      "wiki_link": "https://en.wikipedia.org/wiki/Guam"
+    },
+    "New Caledonia": {
+      "population": 271960,
+      "wiki_link": "https://en.wikipedia.org/wiki/New Caledonia"
+    },
+    "Palau": {
+      "population": 18092,
+      "wiki_link": "https://en.wikipedia.org/wiki/Palau"
+    },
+    "Niue": {
+      "population": 1470,
+      "wiki_link": "https://en.wikipedia.org/wiki/Niue"
+    },
+    "Tonga": {
+      "population": 105697,
+      "wiki_link": "https://en.wikipedia.org/wiki/Tonga"
+    },
+    "Norfolk Island": {
+      "population": 2302,
+      "wiki_link": "https://en.wikipedia.org/wiki/Norfolk Island"
+    }
+  },
+  "Antarctic": {
+    "Bouvet Island": {
+      "population": 0,
+      "wiki_link": "https://en.wikipedia.org/wiki/Bouvet Island"
+    },
+    "Antarctica": {
+      "population": 1000,
+      "wiki_link": "https://en.wikipedia.org/wiki/Antarctica"
+    },
+    "South Georgia": {
+      "population": 30,
+      "wiki_link": "https://en.wikipedia.org/wiki/South Georgia"
+    },
+    "French Southern and Antarctic Lands": {
+      "population": 400,
+      "wiki_link": "https://en.wikipedia.org/wiki/French Southern and Antarctic Lands"
+    },
+    "Heard Island and McDonald Islands": {
+      "population": 0,
+      "wiki_link": "https://en.wikipedia.org/wiki/Heard Island and McDonald Islands"
+    }
+  },
+  "Africa": {
+    "Togo": {
+      "population": 8278737,
+      "wiki_link": "https://en.wikipedia.org/wiki/Togo"
+    },
+    "Tunisia": {
+      "population": 11818618,
+      "wiki_link": "https://en.wikipedia.org/wiki/Tunisia"
+    },
+    "Niger": {
+      "population": 24206636,
+      "wiki_link": "https://en.wikipedia.org/wiki/Niger"
+    },
+    "Morocco": {
+      "population": 36910558,
+      "wiki_link": "https://en.wikipedia.org/wiki/Morocco"
+    },
+    "Mauritania": {
+      "population": 4649660,
+      "wiki_link": "https://en.wikipedia.org/wiki/Mauritania"
+    },
+    "Djibouti": {
+      "population": 988002,
+      "wiki_link": "https://en.wikipedia.org/wiki/Djibouti"
+    },
+    "Madagascar": {
+      "population": 27691019,
+      "wiki_link": "https://en.wikipedia.org/wiki/Madagascar"
+    },
+    "South Africa": {
+      "population": 59308690,
+      "wiki_link": "https://en.wikipedia.org/wiki/South Africa"
+    },
+    "Guinea-Bissau": {
+      "population": 1967998,
+      "wiki_link": "https://en.wikipedia.org/wiki/Guinea-Bissau"
+    },
+    "Zambia": {
+      "population": 18383956,
+      "wiki_link": "https://en.wikipedia.org/wiki/Zambia"
+    },
+    "Equatorial Guinea": {
+      "population": 1402985,
+      "wiki_link": "https://en.wikipedia.org/wiki/Equatorial Guinea"
+    },
+    "Republic of the Congo": {
+      "population": 89561404,
+      "wiki_link": "https://en.wikipedia.org/wiki/Republic of the Congo"
+    },
+    "Burundi": {
+      "population": 11890781,
+      "wiki_link": "https://en.wikipedia.org/wiki/Burundi"
+    },
+    "Zimbabwe": {
+      "population": 14862927,
+      "wiki_link": "https://en.wikipedia.org/wiki/Zimbabwe"
+    },
+    "Guinea": {
+      "population": 13132792,
+      "wiki_link": "https://en.wikipedia.org/wiki/Guinea"
+    },
+    "Botswana": {
+      "population": 2351625,
+      "wiki_link": "https://en.wikipedia.org/wiki/Botswana"
+    },
+    "Lesotho": {
+      "population": 2142252,
+      "wiki_link": "https://en.wikipedia.org/wiki/Lesotho"
+    },
+    "Eritrea": {
+      "population": 5352000,
+      "wiki_link": "https://en.wikipedia.org/wiki/Eritrea"
+    },
+    "Kenya": {
+      "population": 53771300,
+      "wiki_link": "https://en.wikipedia.org/wiki/Kenya"
+    },
+    "Comoros": {
+      "population": 869595,
+      "wiki_link": "https://en.wikipedia.org/wiki/Comoros"
+    },
+    "Cape Verde": {
+      "population": 555988,
+      "wiki_link": "https://en.wikipedia.org/wiki/Cape Verde"
+    },
+    "Malawi": {
+      "population": 19129955,
+      "wiki_link": "https://en.wikipedia.org/wiki/Malawi"
+    },
+    "Chad": {
+      "population": 16425859,
+      "wiki_link": "https://en.wikipedia.org/wiki/Chad"
+    },
+    "Gabon": {
+      "population": 2225728,
+      "wiki_link": "https://en.wikipedia.org/wiki/Gabon"
+    },
+    "Gambia": {
+      "population": 2416664,
+      "wiki_link": "https://en.wikipedia.org/wiki/Gambia"
+    },
+    "Tanzania": {
+      "population": 59734213,
+      "wiki_link": "https://en.wikipedia.org/wiki/Tanzania"
+    },
+    "Liberia": {
+      "population": 5057677,
+      "wiki_link": "https://en.wikipedia.org/wiki/Liberia"
+    },
+    "Mali": {
+      "population": 20250834,
+      "wiki_link": "https://en.wikipedia.org/wiki/Mali"
+    },
+    "Somalia": {
+      "population": 15893219,
+      "wiki_link": "https://en.wikipedia.org/wiki/Somalia"
+    },
+    "Algeria": {
+      "population": 44700000,
+      "wiki_link": "https://en.wikipedia.org/wiki/Algeria"
+    },
+    "Eswatini": {
+      "population": 1160164,
+      "wiki_link": "https://en.wikipedia.org/wiki/Eswatini"
+    },
+    "Ethiopia": {
+      "population": 114963583,
+      "wiki_link": "https://en.wikipedia.org/wiki/Ethiopia"
+    },
+    "Egypt": {
+      "population": 102334403,
+      "wiki_link": "https://en.wikipedia.org/wiki/Egypt"
+    },
+    "Cameroon": {
+      "population": 26545864,
+      "wiki_link": "https://en.wikipedia.org/wiki/Cameroon"
+    },
+    "S\u00e3o Tom\u00e9 and Pr\u00edncipe": {
+      "population": 219161,
+      "wiki_link": "https://en.wikipedia.org/wiki/S\u00e3o Tom\u00e9 and Pr\u00edncipe"
+    },
+    "Sudan": {
+      "population": 43849269,
+      "wiki_link": "https://en.wikipedia.org/wiki/Sudan"
+    },
+    "DR Congo": {
+      "population": 89561404,
+      "wiki_link": "https://en.wikipedia.org/wiki/DR Congo"
+    },
+    "Rwanda": {
+      "population": 12952209,
+      "wiki_link": "https://en.wikipedia.org/wiki/Rwanda"
+    },
+    "Benin": {
+      "population": 12123198,
+      "wiki_link": "https://en.wikipedia.org/wiki/Benin"
+    },
+    "Central African Republic": {
+      "population": 4829764,
+      "wiki_link": "https://en.wikipedia.org/wiki/Central African Republic"
+    },
+    "Burkina Faso": {
+      "population": 20903278,
+      "wiki_link": "https://en.wikipedia.org/wiki/Burkina Faso"
+    },
+    "Sierra Leone": {
+      "population": 7976985,
+      "wiki_link": "https://en.wikipedia.org/wiki/Sierra Leone"
+    },
+    "Mauritius": {
+      "population": 1265740,
+      "wiki_link": "https://en.wikipedia.org/wiki/Mauritius"
+    },
+    "R\u00e9union": {
+      "population": 840974,
+      "wiki_link": "https://en.wikipedia.org/wiki/R\u00e9union"
+    },
+    "Angola": {
+      "population": 32866268,
+      "wiki_link": "https://en.wikipedia.org/wiki/Angola"
+    },
+    "Ivory Coast": {
+      "population": 26378275,
+      "wiki_link": "https://en.wikipedia.org/wiki/Ivory Coast"
+    },
+    "Mozambique": {
+      "population": 31255435,
+      "wiki_link": "https://en.wikipedia.org/wiki/Mozambique"
+    },
+    "Ghana": {
+      "population": 31072945,
+      "wiki_link": "https://en.wikipedia.org/wiki/Ghana"
+    },
+    "Uganda": {
+      "population": 45741000,
+      "wiki_link": "https://en.wikipedia.org/wiki/Uganda"
+    },
+    "Nigeria": {
+      "population": 206139587,
+      "wiki_link": "https://en.wikipedia.org/wiki/Nigeria"
+    },
+    "Namibia": {
+      "population": 2540916,
+      "wiki_link": "https://en.wikipedia.org/wiki/Namibia"
+    },
+    "Mayotte": {
+      "population": 226915,
+      "wiki_link": "https://en.wikipedia.org/wiki/Mayotte"
+    },
+    "Libya": {
+      "population": 6871287,
+      "wiki_link": "https://en.wikipedia.org/wiki/Libya"
+    },
+    "British Indian Ocean Territory": {
+      "population": 3000,
+      "wiki_link": "https://en.wikipedia.org/wiki/British Indian Ocean Territory"
+    },
+    "Western Sahara": {
+      "population": 510713,
+      "wiki_link": "https://en.wikipedia.org/wiki/Western Sahara"
+    },
+    "Saint Helena, Ascension and Tristan da Cunha": {
+      "population": 53192,
+      "wiki_link": "https://en.wikipedia.org/wiki/Saint Helena, Ascension and Tristan da Cunha"
+    },
+    "South Sudan": {
+      "population": 11193729,
+      "wiki_link": "https://en.wikipedia.org/wiki/South Sudan"
+    },
+    "Senegal": {
+      "population": 16743930,
+      "wiki_link": "https://en.wikipedia.org/wiki/Senegal"
+    },
+    "Seychelles": {
+      "population": 98462,
+      "wiki_link": "https://en.wikipedia.org/wiki/Seychelles"
+    }
+  }
 }
