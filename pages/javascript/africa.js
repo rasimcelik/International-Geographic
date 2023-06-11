@@ -133,3 +133,5 @@ fetch("../json/test.json")
     countCountries();
   })
   .catch((error) => console.error(error));
+
+// FETCHING OUR IMAGE JSON FILE AND IMPLEMENT INTO ACCORDION ITEMS

@@ -1,0 +1,32 @@
+{
+  "accordionItems": [
+    {
+      "title": "Etymology",
+      "imagePath": "../assets/africa-etymology.jpg"
+    },
+    {
+      "title": "History",
+      "imagePath": "../assets/africa-history.jpg"
+    },
+    {
+      "title": "Geology",
+      "imagePath": "../assets/africa-geo.png"
+    },
+    {
+      "title": "Politics",
+      "imagePath": "../assets/africa-politics.png"
+    },
+    {
+      "title": "Economy",
+      "imagePath": "../assets/africa-economy.png"
+    },
+    {
+      "title": "Demographics",
+      "imagePath": "../assets/africa-democraphic.png"
+    },
+    {
+      "title": "Culture",
+      "imagePath": "../assets/africa-culture.jpg"
+    }
+  ]
+}
