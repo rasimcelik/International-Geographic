@@ -2,21 +2,21 @@
 const titles = document.querySelectorAll(".countryName-h4");
 const info = document.querySelectorAll(".countryInfo-p");
 
-fetch("../africa.json")
-  .then((response) => response.json())
-  .then((data) => {
-    const heading = data.heading;
-    const entry = data.entry;
-    const combinedParagraph = entry.join(" "); // Join paragraphs with a space
+// fetch("../africa.json")
+//   .then((response) => response.json())
+//   .then((data) => {
+//     const heading = data.heading;
+//     const entry = data.entry;
+//     const combinedParagraph = entry.join(" "); // Join paragraphs with a space
 
-    titles.forEach((title) => {
-      title.innerHTML = heading;
-    });
-    info.innerHTML = combinedParagraph;
-  })
-  .catch((error) => console.error(error));
+//     titles.forEach((title) => {
+//       title.innerHTML = heading;
+//     });
+//     info.innerHTML = combinedParagraph;
+//   })
+//   .catch((error) => console.error(error));
 
-fetch("../africa_sections.json")
+fetch("../json/africa_sections.json")
   .then((response) => response.json())
   .then((data) => {
     const accordionContainer = document.getElementById(
@@ -95,7 +95,7 @@ function countCountries() {
 }
 
 // Fetch the country data and populate the table
-fetch("../test.json")
+fetch("../json/test.json")
   .then((response) => response.json())
   .then((data) => {
     const tbody = document.querySelector("#countriesTable tbody");

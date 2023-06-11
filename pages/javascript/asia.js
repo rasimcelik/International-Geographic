@@ -16,7 +16,7 @@ const info = document.querySelectorAll(".countryInfo-p");
 //   })
 //   .catch((error) => console.error(error));
 
-fetch("../asia_sections.json")
+fetch("../json/asia_sections.json")
   .then((response) => response.json())
   .then((data) => {
     const accordionContainer = document.getElementById(
@@ -96,7 +96,7 @@ function countCountries() {
 }
 
 // Fetch the country data and populate the table
-fetch("../test.json")
+fetch("../json/test.json")
   .then((response) => response.json())
   .then((data) => {
     const tbody = document.querySelector("#countriesTable tbody");
