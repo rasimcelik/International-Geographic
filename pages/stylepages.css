@@ -17,7 +17,6 @@ header {
 }
 header img {
   width: 20%;
-  margin-left: -2rem;
   rotate: 15deg;
 }
 h4 {
@@ -37,7 +36,6 @@ h4 {
   margin: 20px;
   text-align: justify;
 }
-
 .accordion {
   width: 400px;
   font-size: 14px;
@@ -46,7 +44,7 @@ h4 {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  padding: 15px;
+  padding: 20px;
 }
 
 #table-body {

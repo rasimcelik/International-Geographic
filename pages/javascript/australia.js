@@ -28,7 +28,6 @@ fetch("../australia_sections.json")
       // Remove extra characters from content
       const cleanedContent = content.map((paragraph) => {
         let cleanedParagraph = paragraph.replace(/\[\d+\]/g, ""); // emove [2], [30], etc.
-        cleanedParagraph = cleanedParagraph.replace(/\[note \d+\]\s*/g, ""); // emove [note 2], [note 8], etc.
         cleanedParagraph = cleanedParagraph.replace("Main articles: ", ""); // Remove \u02bf, \u2018, etc.
         cleanedParagraph = cleanedParagraph.replace("Main article: ", ""); // Remove \u02bf, \u2018, etc.
         cleanedParagraph = cleanedParagraph.replace("See also: ", ""); // Remove \u02bf, \u2018, etc.
@@ -75,3 +74,62 @@ fetch("../australia_sections.json")
     });
   })
   .catch((error) => console.log(error));
+
+// DYNAMICALLY SET THE CONTINENT NAME BASED ON THE FILE NAME
+
+const fileName = window.location.pathname.split("/").pop();
+const continentName = fileName.split(".")[0];
+const capitalizedContinentName =
+  continentName.charAt(0).toUpperCase() + continentName.slice(1);
+
+const continentNameElement = document.getElementById("continentName");
+continentNameElement.textContent = capitalizedContinentName;
+
+function countCountries() {
+  const table = document.getElementById("countriesTable");
+  const tbody = table.querySelector("tbody");
+  const countryCount = tbody.children.length;
+
+  const countryCounterElement = document.querySelector(".country-counter");
+  countryCounterElement.textContent = `Total Countries: ${countryCount}`;
+}
+
+// Fetch the country data and populate the table
+fetch("../test.json")
+  .then((response) => response.json())
+  .then((data) => {
+    const tbody = document.querySelector("#countriesTable tbody");
+
+    const oceaniaCountries = data["Oceania"];
+
+    const sortedCountries = Object.entries(oceaniaCountries).sort((a, b) =>
+      a[0].localeCompare(b[0])
+    );
+
+    sortedCountries.forEach(([country, countryData]) => {
+      const { wiki_link, population } = countryData;
+
+      const row = document.createElement("tr");
+      const countryCell = document.createElement("td");
+      const wikiCell = document.createElement("td");
+      const populationCell = document.createElement("td");
+      const link = document.createElement("a");
+
+      link.href = wiki_link;
+      link.textContent = "link";
+      link.target = "_blank"; // Open link in a new tab
+
+      countryCell.textContent = country;
+      populationCell.appendChild(link);
+      wikiCell.textContent =
+        population !== null ? population.toLocaleString() : "-";
+      row.appendChild(countryCell);
+      row.appendChild(wikiCell);
+      row.appendChild(populationCell);
+
+      tbody.appendChild(row);
+    });
+    // Call the count function after populating the table
+    countCountries();
+  })
+  .catch((error) => console.error(error));

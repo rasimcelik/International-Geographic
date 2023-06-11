@@ -11,6 +11,7 @@
       crossorigin="anonymous"
     />
     <link rel="stylesheet" href="stylepages.css" />
+    <link rel="stylesheet" href="styleAfrica.css" />
     <title>Australia | Int. Geo.</title>
   </head>
   <body>
@@ -34,6 +35,46 @@
 
         <!-- THIS ACCORDION FOR CONTINENT INFO -->
         <div class="accordion" id="accordionPanelsStayOpenExample"></div>
+        <!--  -->
+
+        <!-- THIS ACCORDION FOR CONTINENT COUNTRIES AND COUNTING -->
+        <div class="accordion" id="accordionCountries">
+          <div class="accordion-item">
+            <h2 class="accordion-header" id="countriesHeader">
+              <button
+                class="accordion-button"
+                type="button"
+                data-bs-toggle="collapse"
+                data-bs-target="#countriesCollapse"
+                aria-expanded="true"
+                aria-controls="countriesCollapse"
+              >
+                <span id="continentName"></span> &nbspCountries
+              </button>
+            </h2>
+            <div
+              id="countriesCollapse"
+              class="accordion-collapse collapse"
+              aria-labelledby="countriesHeader"
+              data-bs-parent="#accordionCountries"
+            >
+              <h6 class="country-counter"></h6>
+
+              <div class="accordion-body" id="table-body">
+                <table id="countriesTable">
+                  <thead>
+                    <tr>
+                      <th>Countries</th>
+                      <th>Population</th>
+                      <th>Wiki Page</th>
+                    </tr>
+                  </thead>
+                  <tbody></tbody>
+                </table>
+              </div>
+            </div>
+          </div>
+        </div>
         <!--  -->
       </main>
     </section>
