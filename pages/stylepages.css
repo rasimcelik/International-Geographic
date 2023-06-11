@@ -1,25 +1,22 @@
 body {
   min-height: 100vh;
   display: flex;
-  justify-content: center;
-  align-items: center;
   background-color: #000000;
   user-select: none;
+  justify-content: center;
 }
-
 section {
   height: 100%;
   width: 480px;
-  background-color: #000000;
 }
 header {
-  padding: 40px;
+  padding: 20px;
   display: flex;
   justify-content: center;
   align-items: center;
 }
 header img {
-  width: 50%;
+  width: 20%;
   margin-left: -2rem;
   rotate: 15deg;
 }
@@ -28,5 +25,57 @@ h4 {
   font-weight: 500;
   font-size: 20px;
   font-family: "Poppins", sans-serif;
-  margin-left: 10px;
+  margin-left: 20px;
+}
+.title {
+  color: white;
+  margin: 20px;
+}
+.paragraph {
+  color: rgb(204, 202, 202);
+  font-size: 14px;
+  margin: 20px;
+  text-align: justify;
+}
+
+.accordion {
+  width: 400px;
+  font-size: 14px;
+  text-align: justify;
+  font-family: "Poppins", sans-serif;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 15px;
+}
+
+#table-body {
+  display: flex;
+  justify-content: center;
+}
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th,
+td {
+  font-family: "Poppins", sans-serif;
+  text-align: left;
+  padding: 10px;
+}
+
+th {
+  width: 1rem;
+  background-color: #f2f2f2;
+}
+
+tbody {
+  font-family: "Poppins", sans-serif;
+}
+
+.country-counter {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
 }
